@@ -24,3 +24,9 @@ Neste notebook, apresentamos o uso de Machine Learning com Regressão Logística
 - Avaliação
 - Conclusão (falta fazer)
 - Referências (falta fazer)
+
+# Geraçaão de Gráfico de Tags
+
+![Image Alt Text](./images/tags.png)
+
+Utilizamos a função: "```tags_list = list(dict(tags_freq[:10]).keys())```" para gerar um gráfico que contém as 10 tags mais frequentes em nosso Data Set.
